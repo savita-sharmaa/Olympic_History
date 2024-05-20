@@ -4,3 +4,4 @@ This is a historical dataset on the modern Olympic Games, including all the Game
 The dataset consists of two files: athlete_events and olympic_regions.
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.
 In this file athlete_events is renamed as olympics_histry and olympic_regions as olympics_history_noc_regions.
+We can download the 120 years of Olympics History dataset from Kaggle from the user rgriffin.
